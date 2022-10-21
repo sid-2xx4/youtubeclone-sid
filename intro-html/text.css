@@ -1,0 +1,44 @@
+p{
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.sid {
+font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 23px;
+  margin-bottom: 5px;
+}
+.stats {
+font-size: 14px;
+color:rgb(96, 96, 96);
+margin-bottom: 16px;
+}
+
+.ig  {
+font-size: 16px;
+color:rgb(96, 96, 96);
+margin-bottom: 20px;
+}
+.txt {
+font-size: 15px;
+color: rgb(96, 96, 96);
+width:300px;
+line-height: 22px;
+margin-bottom: 80px;
+}
+
+.do  {
+color: white;
+font-size: 13px;
+background-color:rgb(227, 65, 64);
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+}
+
+.u:hover {
+text-decoration: underline;
+cursor: pointer;
+}
